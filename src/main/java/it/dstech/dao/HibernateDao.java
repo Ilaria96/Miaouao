@@ -7,6 +7,7 @@ import org.hibernate.Session;
 import it.dstech.config.HibernateUtil;
 
 public class HibernateDao {
+	//tjnijbn5itbinvfkirem
 	private static Session session;
 	
 	public static Session getSession(){
