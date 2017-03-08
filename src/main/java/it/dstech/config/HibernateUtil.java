@@ -10,6 +10,7 @@ public class HibernateUtil {
 
 	//ilaria tutto bene ?
 	// ancora non hai pushato??? male male...
+	//forzaaaaaaaaa
 	
 	private static SessionFactory sessionFactory;
 	private static ServiceRegistry serviceRegistry;
