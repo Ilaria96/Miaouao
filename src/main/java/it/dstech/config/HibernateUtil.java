@@ -8,6 +8,9 @@ import org.hibernate.service.ServiceRegistry;
 
 public class HibernateUtil {
 
+	//ilaria tutto bene ?
+	// ancora non hai pushato??? male male...
+	
 	private static SessionFactory sessionFactory;
 	private static ServiceRegistry serviceRegistry;
 
