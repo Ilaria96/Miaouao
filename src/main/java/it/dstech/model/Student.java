@@ -9,7 +9,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Student implements Serializable {
-
+//auguri Andrè
 	/**
 	 * 
 	 */
